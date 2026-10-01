@@ -13,3 +13,5 @@ print(line[::-1])
 print(line * 3)
 print(line+city)
 print(line + str(pincode))
+
+
