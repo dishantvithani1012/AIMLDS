@@ -4,7 +4,7 @@
 num =1
 gap =1
 
-while num<=100:
+while num<=500:
     print(num,end=" ")
     num+=gap
     gap+=1
